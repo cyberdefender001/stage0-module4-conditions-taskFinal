@@ -2,7 +2,7 @@ package school.mjc.stage0.conditions.finalTask;
 
 public class SeasonDeterminer {
     public void tellTheSeason(int monthNumber) {
-        switch(monhNumber) {
+        switch(monthNumber) {
             case 1:
             case 2:
             case 12:
